@@ -1,5 +1,5 @@
 # Leaderboard
-This is a website of a Tech Agency. I have developed it using HTML, CSS.
+This is a responsive website. I have developed it using HTML, CSS.
 
 ### Deployment
 | Environment | Link |
